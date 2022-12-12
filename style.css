@@ -1,0 +1,15 @@
+header{
+    height: 100px;
+    background-color: black;
+    display: flex;
+}
+header img{
+height: 100px;
+width: 100px;
+}
+.hover{
+    color: blanchedalmond;
+    list-style: none;
+    
+}
+
